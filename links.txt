@@ -71,6 +71,7 @@ https://hercules.app/utilities/url-encoder-decoder
 https://hercules.app/utilities/uuid-generator
 https://hercules.discourse.group
 https://json-formatter.onhercules.app
+https://lorem-ipsum-generator.onhercules.app
 https://optout.aboutads.info/?c=2&amp;lang=EN
 https://regex-tester.onhercules.app
 https://status.hercules.app
