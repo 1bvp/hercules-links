@@ -76,6 +76,7 @@ https://optout.aboutads.info/?c=2&amp;lang=EN
 https://regex-tester.onhercules.app
 https://status.hercules.app
 https://url-encoder-decoder.onhercules.app
+https://uuid-tool.onhercules.app
 https://web.archive.org/web/20230830172015/https://fig.io
 https://www.linkedin.com/company/37897552
 https://www.linkedin.com/company/37897552/
