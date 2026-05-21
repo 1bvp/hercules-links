@@ -5,6 +5,7 @@ https://github.com/Lissy93/personal-security-checklist
 https://github.com/OWASP/CheatSheetSeries
 https://github.com/alan2207/bulletproof-react
 https://github.com/anthropics/skills
+https://github.com/coreyhaines31/marketingskills
 https://github.com/get-convex/agent-skills
 https://github.com/grant0417
 https://github.com/resend/react-email
@@ -59,6 +60,8 @@ https://hercules.app/docs/apps/mobile/get-started
 https://hercules.app/docs/apps/mobile/publish-app-store
 https://hercules.app/docs/apps/mobile/test-mobile
 https://hercules.app/docs/apps/publish/buy-domain
+https://hercules.app/docs/apps/publish/connect-existing-domain
+https://hercules.app/docs/apps/publish/hercules-domain
 https://hercules.app/docs/apps/push-notifications
 https://hercules.app/docs/apps/quickstart
 https://hercules.app/docs/apps/roadmap
