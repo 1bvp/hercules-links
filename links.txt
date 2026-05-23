@@ -42,6 +42,7 @@ https://hercules.app/docs
 https://hercules.app/docs/ai/agent-modes
 https://hercules.app/docs/ai/how-it-works
 https://hercules.app/docs/ai/improve-accuracy
+https://hercules.app/docs/ai/mcp
 https://hercules.app/docs/ai/multi-agent
 https://hercules.app/docs/apps/ai-gateway
 https://hercules.app/docs/apps/analytics
@@ -80,6 +81,7 @@ https://hercules.app/docs/company/contact
 https://hercules.app/docs/company/who-we-are
 https://hercules.app/docs/llms.txt
 https://hercules.app/docs/platform/app-management
+https://hercules.app/docs/platform/billing/ai-credits
 https://hercules.app/docs/platform/billing/cloud-credits
 https://hercules.app/docs/platform/billing/subscription
 https://hercules.app/docs/platform/enterprise
@@ -92,6 +94,7 @@ https://hercules.app/home
 https://hercules.app/legal/privacy
 https://hercules.app/legal/terms
 https://hercules.app/login
+https://hercules.app/mcp-setup
 https://hercules.app/pricing
 https://hercules.app/skills
 https://hercules.app/skills/accessible-design
@@ -131,12 +134,16 @@ https://mxtoolbox.com/emailhealth
 https://optout.aboutads.info/?c=2&amp;lang=EN
 https://postmaster.google.com
 https://regex-tester.onhercules.app
+https://search.google.com/search-console
+https://searchadvisor.naver.com
 https://sendersupport.olc.protection.outlook.com/snds
 https://status.hercules.app
 https://toolbox.googleapps.com/apps/checkmx
 https://url-encoder-decoder.onhercules.app
 https://uuid-tool.onhercules.app
 https://web.archive.org/web/20230830172015/https://fig.io
+https://webmaster.yandex.com
+https://www.bing.com/webmasters
 https://www.gmass.co/analyze
 https://www.gmass.co/inbox
 https://www.linkedin.com/company/37897552
