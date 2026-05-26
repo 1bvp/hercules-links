@@ -132,6 +132,7 @@ https://mxtoolbox.com/blacklists.aspx
 https://mxtoolbox.com/deliverability
 https://mxtoolbox.com/emailhealth
 https://optout.aboutads.info/?c=2&amp;lang=EN
+https://password-gen.onhercules.app
 https://postmaster.google.com
 https://regex-tester.onhercules.app
 https://search.google.com/search-console
