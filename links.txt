@@ -62,6 +62,7 @@ https://hercules.app/docs/apps/internationalization
 https://hercules.app/docs/apps/mobile/get-started
 https://hercules.app/docs/apps/mobile/publish-app-store
 https://hercules.app/docs/apps/mobile/test-mobile
+https://hercules.app/docs/apps/mobile/update-mobile-app
 https://hercules.app/docs/apps/publish/buy-domain
 https://hercules.app/docs/apps/publish/connect-existing-domain
 https://hercules.app/docs/apps/publish/hercules-domain
