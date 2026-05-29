@@ -1,6 +1,7 @@
 https://base64.onhercules.app
 https://check.spamhaus.org/results
 https://color-converter.onhercules.app
+https://cron-expression-builder.onhercules.app
 https://easydmarc.com/tools/spf-lookup
 https://forum.hercules.app
 https://github.com/Lissy93/personal-security-checklist
