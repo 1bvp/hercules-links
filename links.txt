@@ -51,8 +51,17 @@ https://hercules.app/docs/apps/backend
 https://hercules.app/docs/apps/branding-seo
 https://hercules.app/docs/apps/capture-tools
 https://hercules.app/docs/apps/code-editor
+https://hercules.app/docs/apps/commerce/compliance
+https://hercules.app/docs/apps/commerce/coupons
+https://hercules.app/docs/apps/commerce/customers
 https://hercules.app/docs/apps/commerce/get-started
+https://hercules.app/docs/apps/commerce/integrate-into-my-app
+https://hercules.app/docs/apps/commerce/other-settings
+https://hercules.app/docs/apps/commerce/payouts
+https://hercules.app/docs/apps/commerce/products-features
 https://hercules.app/docs/apps/commerce/support
+https://hercules.app/docs/apps/commerce/testing
+https://hercules.app/docs/apps/commerce/transactions
 https://hercules.app/docs/apps/database
 https://hercules.app/docs/apps/dev-machines
 https://hercules.app/docs/apps/emails
