@@ -4,6 +4,7 @@ https://color-converter.onhercules.app
 https://cron-expression-builder.onhercules.app
 https://easydmarc.com/tools/spf-lookup
 https://forum.hercules.app
+https://github.com/GoogleChrome/lighthouse
 https://github.com/Lissy93/personal-security-checklist
 https://github.com/OWASP/CheatSheetSeries
 https://github.com/alan2207/bulletproof-react
@@ -145,6 +146,7 @@ https://mxtoolbox.com/emailhealth
 https://optout.aboutads.info/?c=2&amp;lang=EN
 https://password-gen.onhercules.app
 https://postmaster.google.com
+https://qrcode-generator.onhercules.app
 https://regex-tester.onhercules.app
 https://search.google.com/search-console
 https://searchadvisor.naver.com
