@@ -7,6 +7,7 @@ https://forum.hercules.app
 https://github.com/GoogleChrome/lighthouse
 https://github.com/Lissy93/personal-security-checklist
 https://github.com/OWASP/CheatSheetSeries
+https://github.com/adobe/react-spectrum
 https://github.com/alan2207/bulletproof-react
 https://github.com/anthropics/skills
 https://github.com/coreyhaines31/marketingskills
