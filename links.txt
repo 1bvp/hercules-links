@@ -41,6 +41,7 @@ https://hercules.app/careers/technical-customer-support-engineer
 https://hercules.app/changelog
 https://hercules.app/changelog/attach-files-in-chat
 https://hercules.app/changelog/chat-threads-sidebar
+https://hercules.app/changelog/expert-fast-and-balanced-models
 https://hercules.app/changelog/hercules-mcp-server
 https://hercules.app/changelog/import-csv-into-your-database
 https://hercules.app/changelog/roadmap
