@@ -86,6 +86,7 @@ https://hercules.app/docs/apps/mobile/test-mobile
 https://hercules.app/docs/apps/mobile/update-mobile-app
 https://hercules.app/docs/apps/publish/buy-domain
 https://hercules.app/docs/apps/publish/connect-existing-domain
+https://hercules.app/docs/apps/publish/domain-warnings
 https://hercules.app/docs/apps/publish/hercules-domain
 https://hercules.app/docs/apps/push-notifications
 https://hercules.app/docs/apps/quickstart
