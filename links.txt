@@ -52,6 +52,7 @@ https://hercules.app/dashboard/app
 https://hercules.app/dashboard/skills
 https://hercules.app/docs
 https://hercules.app/docs/ai/agent-modes
+https://hercules.app/docs/ai/chat-connectors
 https://hercules.app/docs/ai/how-it-works
 https://hercules.app/docs/ai/improve-accuracy
 https://hercules.app/docs/ai/mcp
@@ -102,6 +103,7 @@ https://hercules.app/docs/apps/version-control
 https://hercules.app/docs/apps/visual-edit
 https://hercules.app/docs/company/contact
 https://hercules.app/docs/company/who-we-are
+https://hercules.app/docs/hercules-mcp
 https://hercules.app/docs/llms.txt
 https://hercules.app/docs/platform/app-management
 https://hercules.app/docs/platform/billing/ai-credits
@@ -118,6 +120,8 @@ https://hercules.app/legal/privacy
 https://hercules.app/legal/terms
 https://hercules.app/login
 https://hercules.app/mcp-setup
+https://hercules.app/platform/billing/ai-credits
+https://hercules.app/platform/billing/cloud-credits
 https://hercules.app/pricing
 https://hercules.app/skills
 https://hercules.app/skills/accessible-design
