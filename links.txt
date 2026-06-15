@@ -59,6 +59,7 @@ https://hercules.app/docs/ai/mcp
 https://hercules.app/docs/ai/multi-agent
 https://hercules.app/docs/apps/ai-gateway
 https://hercules.app/docs/apps/analytics
+https://hercules.app/docs/apps/audits
 https://hercules.app/docs/apps/backend
 https://hercules.app/docs/apps/branding-seo
 https://hercules.app/docs/apps/capture-tools
