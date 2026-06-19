@@ -52,6 +52,7 @@ https://hercules.app/changelog/scope-skills-to-an-app
 https://hercules.app/changelog/support-and-feedback-dialog
 https://hercules.app/dashboard
 https://hercules.app/dashboard/app
+https://hercules.app/dashboard/connectors
 https://hercules.app/dashboard/skills
 https://hercules.app/docs
 https://hercules.app/docs/ai/agent-modes
@@ -65,6 +66,7 @@ https://hercules.app/docs/apps/analytics
 https://hercules.app/docs/apps/audits
 https://hercules.app/docs/apps/backend
 https://hercules.app/docs/apps/branding-seo
+https://hercules.app/docs/apps/browser-tests
 https://hercules.app/docs/apps/capture-tools
 https://hercules.app/docs/apps/code-editor
 https://hercules.app/docs/apps/commerce/compliance
