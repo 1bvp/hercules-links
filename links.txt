@@ -162,6 +162,7 @@ https://hercules.app/utilities/url-encoder-decoder
 https://hercules.app/utilities/uuid-generator
 https://hercules.discourse.group
 https://json-formatter.onhercules.app
+https://jwt-decoder-encoder.onhercules.app
 https://lorem-ipsum-generator.onhercules.app
 https://mxtoolbox.com/blacklists.aspx
 https://mxtoolbox.com/deliverability
