@@ -52,6 +52,7 @@ https://hercules.app/changelog/roadmap
 https://hercules.app/changelog/schedule-database-backups
 https://hercules.app/changelog/scope-skills-to-an-app
 https://hercules.app/changelog/support-and-feedback-dialog
+https://hercules.app/customers
 https://hercules.app/dashboard
 https://hercules.app/dashboard/app
 https://hercules.app/dashboard/connectors
