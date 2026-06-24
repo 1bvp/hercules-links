@@ -2,6 +2,7 @@ https://base64.onhercules.app
 https://check.spamhaus.org/results
 https://color-converter.onhercules.app
 https://cron-expression-builder.onhercules.app
+https://donaldleeservice.com
 https://easydmarc.com/tools/spf-lookup
 https://forum.hercules.app
 https://github.com/GoogleChrome/lighthouse
@@ -53,6 +54,12 @@ https://hercules.app/changelog/schedule-database-backups
 https://hercules.app/changelog/scope-skills-to-an-app
 https://hercules.app/changelog/support-and-feedback-dialog
 https://hercules.app/customers
+https://hercules.app/customers/american-mortuary-equipment
+https://hercules.app/customers/donald-lee-service
+https://hercules.app/customers/gamatauri
+https://hercules.app/customers/helixon-law
+https://hercules.app/customers/kingdom-texas
+https://hercules.app/customers/mma-plumbing
 https://hercules.app/dashboard
 https://hercules.app/dashboard/app
 https://hercules.app/dashboard/connectors
@@ -66,6 +73,7 @@ https://hercules.app/docs/ai/mcp
 https://hercules.app/docs/ai/multi-agent
 https://hercules.app/docs/apps/ai-gateway
 https://hercules.app/docs/apps/analytics
+https://hercules.app/docs/apps/app-connectors
 https://hercules.app/docs/apps/audits
 https://hercules.app/docs/apps/backend
 https://hercules.app/docs/apps/branding-seo
@@ -132,6 +140,7 @@ https://hercules.app/mcp-setup
 https://hercules.app/platform/billing/ai-credits
 https://hercules.app/platform/billing/cloud-credits
 https://hercules.app/pricing
+https://hercules.app/signup
 https://hercules.app/skills
 https://hercules.app/skills/accessible-design
 https://hercules.app/skills/app-security-audit
@@ -164,7 +173,9 @@ https://hercules.app/utilities/uuid-generator
 https://hercules.discourse.group
 https://json-formatter.onhercules.app
 https://jwt-decoder-encoder.onhercules.app
+https://kingdomconstructiontexas.com
 https://lorem-ipsum-generator.onhercules.app
+https://mmaontstoppingsdienst.nl
 https://mxtoolbox.com/blacklists.aspx
 https://mxtoolbox.com/deliverability
 https://mxtoolbox.com/emailhealth
