@@ -18,6 +18,7 @@ https://github.com/resend/react-email
 https://github.com/thedaviddias/Front-End-Checklist
 https://github.com/thedaviddias/Front-End-Performance-Checklist
 https://hash.onhercules.app
+https://helixongroup.com
 https://hercules.app
 https://hercules.app/abuse
 https://hercules.app/blog
@@ -179,6 +180,7 @@ https://mmaontstoppingsdienst.nl
 https://mxtoolbox.com/blacklists.aspx
 https://mxtoolbox.com/deliverability
 https://mxtoolbox.com/emailhealth
+https://mymortuarycooler.com
 https://optout.aboutads.info/?c=2&amp;lang=EN
 https://password-gen.onhercules.app
 https://postmaster.google.com
