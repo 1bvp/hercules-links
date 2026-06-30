@@ -1,5 +1,6 @@
 https://base64.onhercules.app
 https://browser-compat.turnstile.workers.dev
+https://chatgpt.com/apps
 https://chatgpt.com/apps/hercules/asdk_app_6a10e1e330788191b7a6af850f2cc827
 https://check.spamhaus.org/results
 https://color-converter.onhercules.app
