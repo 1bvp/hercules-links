@@ -70,11 +70,16 @@ https://hercules.app/changelog/support-and-feedback-dialog
 https://hercules.app/changelog/transfer-apps-between-organizations
 https://hercules.app/customers
 https://hercules.app/customers/american-mortuary-equipment
+https://hercules.app/customers/atom-technology
 https://hercules.app/customers/donald-lee-service
 https://hercules.app/customers/gamatauri
+https://hercules.app/customers/havoc-motorcycles
 https://hercules.app/customers/helixon-law
+https://hercules.app/customers/ice-cream-hut
 https://hercules.app/customers/kingdom-texas
 https://hercules.app/customers/mma-plumbing
+https://hercules.app/customers/petony-transportes
+https://hercules.app/customers/soldout-entertainment
 https://hercules.app/dashboard
 https://hercules.app/dashboard/app
 https://hercules.app/dashboard/connectors
