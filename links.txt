@@ -150,6 +150,7 @@ https://hercules.app/docs/platform/billing/cloud-credits
 https://hercules.app/docs/platform/billing/subscription
 https://hercules.app/docs/platform/enterprise
 https://hercules.app/docs/platform/export-data
+https://hercules.app/docs/platform/hercules-cloud
 https://hercules.app/docs/platform/sso-saml
 https://hercules.app/docs/platform/teammates
 https://hercules.app/docs/platform/user-profile
