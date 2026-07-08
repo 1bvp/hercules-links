@@ -65,6 +65,7 @@ https://hercules.app/changelog/record-your-screen
 https://hercules.app/changelog/roadmap
 https://hercules.app/changelog/schedule-database-backups
 https://hercules.app/changelog/scope-skills-to-an-app
+https://hercules.app/changelog/seo-and-aeo-review
 https://hercules.app/changelog/set-auth-portal-language
 https://hercules.app/changelog/support-and-feedback-dialog
 https://hercules.app/changelog/transfer-apps-between-organizations
