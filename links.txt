@@ -24,6 +24,7 @@ https://github.com/resend/react-email
 https://github.com/thedaviddias/Front-End-Checklist
 https://github.com/thedaviddias/Front-End-Performance-Checklist
 https://hash.onhercules.app
+https://havoc-motorcycles.com
 https://helixongroup.com
 https://hercules.app
 https://hercules.app/abuse
@@ -60,6 +61,7 @@ https://hercules.app/changelog/hercules-on-chatgpt
 https://hercules.app/changelog/images-and-audio-in-ai-gateway
 https://hercules.app/changelog/import-csv-into-your-database
 https://hercules.app/changelog/mention-connectors-in-chat
+https://hercules.app/changelog/organize-files-with-folders
 https://hercules.app/changelog/preview-links-in-chat
 https://hercules.app/changelog/record-your-screen
 https://hercules.app/changelog/roadmap
