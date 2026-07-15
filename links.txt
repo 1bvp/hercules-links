@@ -47,6 +47,7 @@ https://hercules.app/careers/product-engineer
 https://hercules.app/careers/seo-content-writer
 https://hercules.app/careers/technical-community-lead
 https://hercules.app/careers/technical-customer-support-engineer
+https://hercules.app/careers/technical-customer-support-lead
 https://hercules.app/changelog
 https://hercules.app/changelog/app-audits
 https://hercules.app/changelog/attach-files-in-chat
@@ -216,7 +217,9 @@ https://regex-tester.onhercules.app
 https://search.google.com/search-console
 https://searchadvisor.naver.com
 https://sendersupport.olc.protection.outlook.com/snds
+https://soldoutentertainment.com
 https://status.hercules.app
+https://theicecreamhut.com
 https://toolbox.googleapps.com/apps/checkmx
 https://url-encoder-decoder.onhercules.app
 https://uuid-tool.onhercules.app
