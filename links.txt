@@ -136,6 +136,7 @@ https://hercules.app/docs/apps/quickstart
 https://hercules.app/docs/apps/roadmap
 https://hercules.app/docs/apps/secrets
 https://hercules.app/docs/apps/security
+https://hercules.app/docs/apps/security-headers
 https://hercules.app/docs/apps/users-auth/customize-auth-portal
 https://hercules.app/docs/apps/users-auth/debug-auth
 https://hercules.app/docs/apps/users-auth/get-started
