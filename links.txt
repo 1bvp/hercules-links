@@ -28,6 +28,7 @@ https://havoc-motorcycles.com
 https://helixongroup.com
 https://hercules.app
 https://hercules.app/abuse
+https://hercules.app/affiliates
 https://hercules.app/blog
 https://hercules.app/blog/welcome
 https://hercules.app/careers
@@ -161,6 +162,7 @@ https://hercules.app/docs/platform/teammates
 https://hercules.app/docs/platform/user-profile
 https://hercules.app/docs/welcome
 https://hercules.app/home
+https://hercules.app/legal/affiliate-terms
 https://hercules.app/legal/privacy
 https://hercules.app/legal/terms
 https://hercules.app/login
