@@ -52,6 +52,7 @@ https://hercules.app/careers/technical-customer-support-lead
 https://hercules.app/changelog
 https://hercules.app/changelog/app-audits
 https://hercules.app/changelog/attach-files-in-chat
+https://hercules.app/changelog/auth-portal-more-languages
 https://hercules.app/changelog/branches
 https://hercules.app/changelog/chat-connectors
 https://hercules.app/changelog/chat-threads-sidebar
