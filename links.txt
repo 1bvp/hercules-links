@@ -90,6 +90,7 @@ https://hercules.app/dashboard
 https://hercules.app/dashboard/app
 https://hercules.app/dashboard/connectors
 https://hercules.app/dashboard/skills
+https://hercules.app/dashboard?settings=organization-billing%2Fplans
 https://hercules.app/docs
 https://hercules.app/docs/ai/agent-modes
 https://hercules.app/docs/ai/chat-connectors
@@ -154,6 +155,7 @@ https://hercules.app/docs/platform/app-management
 https://hercules.app/docs/platform/app-transfer
 https://hercules.app/docs/platform/billing/ai-credits
 https://hercules.app/docs/platform/billing/cloud-credits
+https://hercules.app/docs/platform/billing/plans
 https://hercules.app/docs/platform/billing/subscription
 https://hercules.app/docs/platform/enterprise
 https://hercules.app/docs/platform/export-data
@@ -163,6 +165,7 @@ https://hercules.app/docs/platform/teammates
 https://hercules.app/docs/platform/user-profile
 https://hercules.app/docs/welcome
 https://hercules.app/home
+https://hercules.app/legal
 https://hercules.app/legal/affiliate-terms
 https://hercules.app/legal/privacy
 https://hercules.app/legal/terms
