@@ -7,6 +7,7 @@ https://color-converter.onhercules.app
 https://console.cloud.google.com
 https://cron-expression-builder.onhercules.app
 https://developer.apple.com/account/resources/identifiers/list
+https://developers.facebook.com/apps
 https://donaldleeservice.com
 https://easydmarc.com/tools/spf-lookup
 https://entra.microsoft.com
