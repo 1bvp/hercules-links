@@ -57,6 +57,7 @@ https://hercules.app/changelog/auth-portal-more-languages
 https://hercules.app/changelog/branches
 https://hercules.app/changelog/chat-connectors
 https://hercules.app/changelog/chat-threads-sidebar
+https://hercules.app/changelog/control-who-can-sign-up
 https://hercules.app/changelog/email-and-password-sign-in
 https://hercules.app/changelog/expert-fast-and-balanced-models
 https://hercules.app/changelog/feed.xml
@@ -80,10 +81,14 @@ https://hercules.app/customers/american-mortuary-equipment
 https://hercules.app/customers/atom-technology
 https://hercules.app/customers/donald-lee-service
 https://hercules.app/customers/gamatauri
+https://hercules.app/customers/global-connectors
+https://hercules.app/customers/glowball-nation
 https://hercules.app/customers/havoc-motorcycles
 https://hercules.app/customers/helixon-law
 https://hercules.app/customers/ice-cream-hut
+https://hercules.app/customers/imjomat
 https://hercules.app/customers/kingdom-texas
+https://hercules.app/customers/mauritius-biz
 https://hercules.app/customers/mma-plumbing
 https://hercules.app/customers/petony-transportes
 https://hercules.app/customers/soldout-entertainment
@@ -145,6 +150,7 @@ https://hercules.app/docs/apps/security-headers
 https://hercules.app/docs/apps/users-auth/customize-auth-portal
 https://hercules.app/docs/apps/users-auth/debug-auth
 https://hercules.app/docs/apps/users-auth/get-started
+https://hercules.app/docs/apps/users-auth/sign-in-rules
 https://hercules.app/docs/apps/users-auth/upgrade-to-hercules-auth-2
 https://hercules.app/docs/apps/users-auth/users-roles-permissions
 https://hercules.app/docs/apps/version-control
