@@ -155,6 +155,7 @@ https://hercules.app/docs/apps/users-auth/upgrade-to-hercules-auth-2
 https://hercules.app/docs/apps/users-auth/users-roles-permissions
 https://hercules.app/docs/apps/version-control
 https://hercules.app/docs/apps/visual-edit
+https://hercules.app/docs/commerce
 https://hercules.app/docs/company/contact
 https://hercules.app/docs/company/who-we-are
 https://hercules.app/docs/hercules-mcp
