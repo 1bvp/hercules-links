@@ -101,6 +101,7 @@ https://hercules.app/customers/petony-transportes
 https://hercules.app/customers/soldout-entertainment
 https://hercules.app/dashboard
 https://hercules.app/dashboard/app
+https://hercules.app/dashboard/chat
 https://hercules.app/dashboard/connectors
 https://hercules.app/dashboard/skills
 https://hercules.app/dashboard?settings=organization-billing%2Fai-usage
@@ -261,6 +262,7 @@ https://petony.com.br
 https://postmaster.google.com
 https://qrcode-generator.onhercules.app
 https://regex-tester.onhercules.app
+https://safebrowsing.google.com/safebrowsing/report_error
 https://search.google.com/search-console
 https://searchadvisor.naver.com
 https://sendersupport.olc.protection.outlook.com/snds
