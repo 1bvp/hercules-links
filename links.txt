@@ -131,6 +131,7 @@ https://hercules.app/docs/ai/how-it-works
 https://hercules.app/docs/ai/improve-accuracy
 https://hercules.app/docs/ai/mcp
 https://hercules.app/docs/ai/multi-agent
+https://hercules.app/docs/ai/skills
 https://hercules.app/docs/apps/ai-gateway
 https://hercules.app/docs/apps/analytics
 https://hercules.app/docs/apps/app-connectors
