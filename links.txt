@@ -81,6 +81,7 @@ https://hercules.app/changelog/see-what-credits-paid-for
 https://hercules.app/changelog/seo-and-aeo-review
 https://hercules.app/changelog/set-a-statement-descriptor
 https://hercules.app/changelog/set-auth-portal-language
+https://hercules.app/changelog/skills-marketplace
 https://hercules.app/changelog/support-and-feedback-dialog
 https://hercules.app/changelog/transfer-apps-between-organizations
 https://hercules.app/customers
