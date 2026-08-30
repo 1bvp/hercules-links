@@ -190,6 +190,7 @@ https://hercules.app/docs/apps/version-control
 https://hercules.app/docs/apps/visual-edit
 https://hercules.app/docs/commerce
 https://hercules.app/docs/company/contact
+https://hercules.app/docs/company/security
 https://hercules.app/docs/company/who-we-are
 https://hercules.app/docs/hercules-mcp
 https://hercules.app/docs/llms.txt
