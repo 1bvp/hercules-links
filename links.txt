@@ -248,6 +248,7 @@ https://hercules.app/utilities/regex-tester
 https://hercules.app/utilities/url-encoder-decoder
 https://hercules.app/utilities/uuid-generator
 https://hercules.discourse.group
+https://imjomat.onhercules.app
 https://json-formatter.onhercules.app
 https://jwt-decoder-encoder.onhercules.app
 https://kingdomconstructiontexas.com
@@ -287,6 +288,7 @@ https://www.linkedin.com/developers/apps
 https://www.linkedin.com/in/brendanfalk
 https://www.mail-tester.com
 https://www.mailgenius.com
+https://www.mauritius.biz
 https://www.mintlify.com?utm_campaign=poweredBy&utm_medium=referral&utm_source=zeus-0f6dadbf
 https://x.com/useHercules
 https://x.com/usehercules
