@@ -1,3 +1,4 @@
+http://hercules.app
 https://base64.onhercules.app
 https://browser-compat.turnstile.workers.dev
 https://chatgpt.com/apps
