@@ -137,6 +137,7 @@ https://hercules.app/docs/ai/mcp
 https://hercules.app/docs/ai/multi-agent
 https://hercules.app/docs/ai/skills
 https://hercules.app/docs/apps/ai-gateway
+https://hercules.app/docs/apps/ai-gateway/decisions
 https://hercules.app/docs/apps/analytics
 https://hercules.app/docs/apps/app-connectors
 https://hercules.app/docs/apps/app-management
