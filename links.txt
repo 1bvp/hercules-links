@@ -7,6 +7,7 @@ https://check.spamhaus.org/results
 https://color-converter.onhercules.app
 https://console.cloud.google.com
 https://cron-expression-builder.onhercules.app
+https://developer.apple.com/account/resources/authkeys/list
 https://developer.apple.com/account/resources/identifiers/list
 https://developers.cloudflare.com/ai/models
 https://developers.facebook.com/apps
@@ -168,6 +169,7 @@ https://hercules.app/docs/apps/export-data
 https://hercules.app/docs/apps/files-media-storage
 https://hercules.app/docs/apps/image-generation
 https://hercules.app/docs/apps/internationalization
+https://hercules.app/docs/apps/migrate/overview
 https://hercules.app/docs/apps/mobile/get-started
 https://hercules.app/docs/apps/mobile/publish-app-store
 https://hercules.app/docs/apps/mobile/test-mobile
@@ -188,6 +190,7 @@ https://hercules.app/docs/apps/users-auth/customize-auth-portal
 https://hercules.app/docs/apps/users-auth/debug-auth
 https://hercules.app/docs/apps/users-auth/get-started
 https://hercules.app/docs/apps/users-auth/sign-in-rules
+https://hercules.app/docs/apps/users-auth/sms-provider-custom
 https://hercules.app/docs/apps/users-auth/upgrade-to-hercules-auth-2
 https://hercules.app/docs/apps/users-auth/users-roles-permissions
 https://hercules.app/docs/apps/version-control
