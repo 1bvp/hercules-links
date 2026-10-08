@@ -437,6 +437,7 @@ https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2
 https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fduplicate-an-app
 https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fimproved-app-switcher
 https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fmanage-hercules-features-from-hercules-agent
+https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fmention-connectors-in-chat
 https://www.mail-tester.com
 https://www.mailgenius.com
 https://www.mauritius.biz
@@ -449,5 +450,6 @@ https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fconfigure
 https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fduplicate-an-app&text=Duplicate+an+App
 https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fimproved-app-switcher&text=New+Platform+Layout
 https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fmanage-hercules-features-from-hercules-agent&text=Manage+Hercules+Features+from+Chat
+https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fmention-connectors-in-chat&text=Mention+Connectors+in+Chat
 https://x.com/useHercules
 https://x.com/usehercules
