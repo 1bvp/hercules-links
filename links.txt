@@ -2,6 +2,7 @@ http://hercules.app
 https://appstoreconnect.apple.com
 https://base64.onhercules.app
 https://browser-compat.turnstile.workers.dev
+https://carta.com/data
 https://chatgpt.com/apps
 https://chatgpt.com/apps/hercules/asdk_app_6a10e1e330788191b7a6af850f2cc827
 https://check.spamhaus.org/results
@@ -304,6 +305,7 @@ https://hercules.app/docs/apps/internationalization
 https://hercules.app/docs/apps/migrate/overview
 https://hercules.app/docs/apps/mobile/get-started
 https://hercules.app/docs/apps/mobile/publish-app-store
+https://hercules.app/docs/apps/mobile/store-requirements
 https://hercules.app/docs/apps/mobile/test-mobile
 https://hercules.app/docs/apps/mobile/update-mobile-app
 https://hercules.app/docs/apps/publish/buy-domain
@@ -397,6 +399,7 @@ https://mxtoolbox.com/blacklists.aspx
 https://mxtoolbox.com/deliverability
 https://mxtoolbox.com/emailhealth
 https://mymortuarycooler.com
+https://openrouter.ai/blog/insights
 https://optout.aboutads.info/?c=2&amp;lang=EN
 https://optout.aboutads.info/?c=2&lang=EN
 https://partner.microsoft.com/dashboard
@@ -407,6 +410,7 @@ https://play.google.com/console
 https://postmaster.google.com
 https://pwabuilder.com
 https://qrcode-generator.onhercules.app
+https://ramp.com/data
 https://regex-tester.onhercules.app
 https://safebrowsing.google.com/safebrowsing/report_error
 https://search.google.com/search-console
