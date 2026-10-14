@@ -44,6 +44,7 @@ https://hercules.app
 https://hercules.app/abuse
 https://hercules.app/affiliates
 https://hercules.app/blog
+https://hercules.app/blog/test-test
 https://hercules.app/blog/welcome
 https://hercules.app/careers
 https://hercules.app/careers/ai-context-harness-engineer
