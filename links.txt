@@ -349,6 +349,7 @@ https://hercules.app/docs/platform/billing/ai-credits
 https://hercules.app/docs/platform/billing/cloud-credits
 https://hercules.app/docs/platform/billing/plans
 https://hercules.app/docs/platform/billing/subscription
+https://hercules.app/docs/platform/delete-organization
 https://hercules.app/docs/platform/enterprise
 https://hercules.app/docs/platform/export-data
 https://hercules.app/docs/platform/hercules-cloud
@@ -479,7 +480,9 @@ https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2
 https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fmanage-hercules-features-from-hercules-agent
 https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fmention-connectors-in-chat
 https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Forganize-files-with-folders
+https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Froadmap
 https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fsearch-the-web-in-chat
+https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fshift-click-file-selection
 https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fshowcase-tab
 https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Ftoggle-managed-dns
 https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Ftranslate-apps-with-google-translate
@@ -508,7 +511,9 @@ https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fissue-com
 https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fmanage-hercules-features-from-hercules-agent&text=Manage+Hercules+Features+from+Chat
 https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fmention-connectors-in-chat&text=Mention+Connectors+in+Chat
 https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Forganize-files-with-folders&text=Organize+Files+with+Folders
+https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Froadmap&text=Roadmap%2C+Initiatives%2C+%26+Milestones
 https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fsearch-the-web-in-chat&text=Search+the+Web+in+Chat
+https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fshift-click-file-selection&text=Bulk+Select+Files
 https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fshowcase-tab&text=Hercules+Showcase
 https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Ftoggle-managed-dns&text=Self-Manage+from+Purchased+Domains
 https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Ftranslate-apps-with-google-translate&text=Better+Support+for+Google+Translate
