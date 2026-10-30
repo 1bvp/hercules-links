@@ -85,8 +85,11 @@ https://hercules.app/careers/staff-technical-product-manager-evals
 https://hercules.app/careers/technical-community-lead
 https://hercules.app/careers/technical-customer-support-engineer
 https://hercules.app/careers/technical-customer-support-engineer-apac
+https://hercules.app/careers/technical-customer-support-engineer-apac-weekend-coverage
 https://hercules.app/careers/technical-customer-support-engineer-emea
+https://hercules.app/careers/technical-customer-support-engineer-emea-weekend-coverage
 https://hercules.app/careers/technical-customer-support-engineer-north-america
+https://hercules.app/careers/technical-customer-support-engineer-north-america-weekend-coverage
 https://hercules.app/careers/technical-customer-support-lead
 https://hercules.app/changelog
 https://hercules.app/changelog/add-environment-variables
