@@ -91,6 +91,7 @@ https://hercules.app/careers/technical-customer-support-engineer-emea-weekend-co
 https://hercules.app/careers/technical-customer-support-engineer-north-america
 https://hercules.app/careers/technical-customer-support-engineer-north-america-weekend-coverage
 https://hercules.app/careers/technical-customer-support-lead
+https://hercules.app/careers/technical-support-engineer-emea-weekend-coverage
 https://hercules.app/changelog
 https://hercules.app/changelog/add-environment-variables
 https://hercules.app/changelog/add-sms-sign-in
@@ -512,8 +513,10 @@ https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2
 https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fsearch-the-web-in-chat
 https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fshift-click-file-selection
 https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fshowcase-tab
+https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fsupport-and-feedback-dialog
 https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Ftoggle-managed-dns
 https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Ftranslate-apps-with-google-translate
+https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fview-function-usage
 https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fwildcard-custom-domains
 https://www.mail-tester.com
 https://www.mailgenius.com
@@ -549,8 +552,10 @@ https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Froadmap&t
 https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fsearch-the-web-in-chat&text=Search+the+Web+in+Chat
 https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fshift-click-file-selection&text=Bulk+Select+Files
 https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fshowcase-tab&text=Hercules+Showcase
+https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fsupport-and-feedback-dialog&text=Support+and+Feedback+Hub
 https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Ftoggle-managed-dns&text=Self-Manage+from+Purchased+Domains
 https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Ftranslate-apps-with-google-translate&text=Better+Support+for+Google+Translate
+https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fview-function-usage&text=View+Function+Usage
 https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fwildcard-custom-domains&text=Wildcard+Custom+Domains
 https://x.com/useHercules
 https://x.com/usehercules
