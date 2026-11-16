@@ -16,6 +16,7 @@ https://browser-compat.turnstile.workers.dev
 https://budgetoverrun.com/studies/flyvbjerg-megaproject-database
 https://carta.com/data
 https://cdn1-public.infotech.com/agile/CHAOSReport2015-Final.pdf
+https://chatgpt.com
 https://chatgpt.com/apps
 https://chatgpt.com/apps/hercules/asdk_app_6a10e1e330788191b7a6af850f2cc827
 https://chatgpt.com/plugins/hercules
