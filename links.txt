@@ -9,6 +9,7 @@ https://arxiv.org/abs/2302.06590
 https://assets.kpmg.com/content/dam/kpmgsites/sa/pdf/2025/accelerating-digital-transformation-with-ai-and-low-code.pdf.coredownload.inline.pdf
 https://bankingblog.accenture.com/how-banks-scale-generative-ai-for-growth
 https://base64.onhercules.app
+https://blog.cloudflare.com
 https://blog.jetbrains.com/research/2025/10/state-of-developer-ecosystem-2025
 https://blog.jetbrains.com/research/2026/04/which-ai-coding-tools-do-developers-actually-use-at-work
 https://blogs.mulesoft.com/agentic-perspectives/connectivity-benchmark-report
@@ -30,6 +31,7 @@ https://console.cloud.google.com/iam-admin/serviceaccounts
 https://console.plivo.com
 https://console.twilio.com
 https://cron-expression-builder.onhercules.app
+https://cursor.com/blog/topic/research
 https://dashboard.nexmo.com/settings
 https://developer.apple.com
 https://developer.apple.com/account/resources/authkeys/list
@@ -558,6 +560,7 @@ https://safebrowsing.google.com/safebrowsing/report_error
 https://search.google.com/search-console
 https://searchadvisor.naver.com
 https://sendersupport.olc.protection.outlook.com/snds
+https://shopify.engineering
 https://soldoutentertainment.com
 https://status.hercules.app
 https://survey.stackoverflow.co/2025/ai
@@ -755,6 +758,7 @@ https://www.smb-gr.com/wp-content/uploads/2022/07/2022_SMB_Financial-Mgt-Survey-
 https://www.thehackettgroup.com/the-hackett-group-digital-world-class-finance-teams-operate-at-45-lower-cost-and-deliver-faster-smarter-insights
 https://www.timeetc.com/resources/how-to-achieve-more/the-big-price-of-small-tasks-how-entrepreneurs-may-be-unwittingly-keeping-their-businesses-small
 https://www.twilio.com/docs/messaging/api/message-resource
+https://www.uber.com/us/en/blog/engineering
 https://www.upwork.com/blog/skilled-adaptive-and-ai-enabled-meet-the-workforce-powering-transformation-across-industries
 https://www.upwork.com/press/releases/upworks-in-demand-skills-2026-demand-for-top-ai-skills-more-than-doubles-as-ai-is-embedded-into-everyday-work
 https://www.upwork.com/research/in-demand-skills-2026
