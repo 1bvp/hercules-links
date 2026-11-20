@@ -682,6 +682,7 @@ https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2
 https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fimport-csv-into-your-database
 https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fimproved-app-switcher
 https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fissue-commerce-refunds
+https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Flatest-mcp-protocol-revision
 https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Flaunching-code-editor
 https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Flaunching-hercules-ai-gateway
 https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Flaunching-the-app-builder
@@ -696,6 +697,7 @@ https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2
 https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fpublish-apps-to-hercules-subdomain
 https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fpublish-ios-apps-to-the-app-store
 https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fpush-notifications
+https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fquery-and-import-app-data
 https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Frecent-apps-screenshots
 https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Frename-env-vars-to-secrets
 https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fresume-agent-responses
@@ -711,9 +713,11 @@ https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2
 https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fsingle-sign-on-for-apps
 https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fskills-marketplace
 https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fsso-login
+https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fstore-data-in-canada-and-australia
 https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fsupport-and-feedback-dialog
 https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Ftoggle-managed-dns
 https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Ftranslate-apps-with-google-translate
+https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fupload-profile-images
 https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fversion-history-with-checkpoints
 https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fview-function-usage
 https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fwildcard-custom-domains
@@ -807,6 +811,7 @@ https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fhide-the-
 https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fimport-csv-into-your-database&text=Import+CSV+into+Your+Database
 https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fimproved-app-switcher&text=New+Platform+Layout
 https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fissue-commerce-refunds&text=Issue+Hercules+Commerce+Refunds
+https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Flatest-mcp-protocol-revision&text=Latest+MCP+Protocol+Revision
 https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Flaunching-code-editor&text=Launching+the+Code+Editor
 https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Flaunching-hercules-ai-gateway&text=Launching+Hercules+AI+Gateway
 https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Flaunching-the-app-builder&text=Launching+Hercules
@@ -821,6 +826,7 @@ https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fper-envir
 https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fpublish-apps-to-hercules-subdomain&text=Publish+Apps+to+a+Hercules+Subdomain
 https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fpublish-ios-apps-to-the-app-store&text=Publish+iOS+Apps
 https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fpush-notifications&text=Send+Push+Notifications
+https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fquery-and-import-app-data&text=Query+and+Import+App+Data
 https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Frecent-apps-screenshots&text=App+Screenshots+in+Preview
 https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Frename-env-vars-to-secrets&text=Environment+Variables+Are+Now+Secrets
 https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fresume-agent-responses&text=Background+Agents
@@ -836,9 +842,11 @@ https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fsign-in-w
 https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fsingle-sign-on-for-apps&text=Single+Sign-On+for+Apps
 https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fskills-marketplace&text=Skills+Marketplace
 https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fsso-login&text=Sign+In+With+SSO
+https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fstore-data-in-canada-and-australia&text=Store+Data+in+Canada+and+Australia
 https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fsupport-and-feedback-dialog&text=Support+and+Feedback+Hub
 https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Ftoggle-managed-dns&text=Self-Manage+from+Purchased+Domains
 https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Ftranslate-apps-with-google-translate&text=Better+Support+for+Google+Translate
+https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fupload-profile-images&text=Upload+Profile+Images
 https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fversion-history-with-checkpoints&text=Version+History+With+Checkpoints
 https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fview-function-usage&text=View+Function+Usage
 https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fwildcard-custom-domains&text=Wildcard+Custom+Domains
