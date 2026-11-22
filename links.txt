@@ -72,7 +72,9 @@ https://hash.onhercules.app
 https://havoc-motorcycles.com
 https://helixongroup.com
 https://hercules.app
+https://hercules.app/?utm_source=blog&utm_medium=owned&utm_campaign=launch-week-2026-11&utm_content=app-integrations
 https://hercules.app/?utm_source=blog&utm_medium=owned&utm_campaign=launch-week-2026-11&utm_content=security
+https://hercules.app/?utm_source=blog&utm_medium=owned&utm_campaign=launch-week-2026-11&utm_content=seo
 https://hercules.app/abuse
 https://hercules.app/affiliates
 https://hercules.app/blog
@@ -81,6 +83,8 @@ https://hercules.app/blog/ai-app-builder-adoption-statistics.md
 https://hercules.app/blog/app-development-agency-rates-project-costs-statistics
 https://hercules.app/blog/app-development-agency-rates-project-costs-statistics.md
 https://hercules.app/blog/app-development-timeline-statistics
+https://hercules.app/blog/app-integrations
+https://hercules.app/blog/app-integrations.md
 https://hercules.app/blog/authors/brendan
 https://hercules.app/blog/authors/grant
 https://hercules.app/blog/back-office-automation-statistics
@@ -95,9 +99,12 @@ https://hercules.app/blog/custom-software-development-cost-statistics
 https://hercules.app/blog/erp-implementation-cost-statistics
 https://hercules.app/blog/freelance-marketplace-statistics
 https://hercules.app/blog/freelance-marketplace-statistics.md
+https://hercules.app/blog/hercules-agents
+https://hercules.app/blog/hercules-memory
 https://hercules.app/blog/hercules-security
 https://hercules.app/blog/hercules-security.md
 https://hercules.app/blog/hercules-seo
+https://hercules.app/blog/hercules-seo.md
 https://hercules.app/blog/internal-tool-development-statistics
 https://hercules.app/blog/internal-tool-development-statistics.md
 https://hercules.app/blog/manual-data-entry-cost-statistics
@@ -774,6 +781,8 @@ https://www.useparagon.com/state-of-integrations-2026
 https://www.veracode.com/blog/spring-2026-genai-code-security
 https://www.verizon.com/about/news/small-business-survey
 https://www.youtube.com/watch?v=Nhnuwuor1Wg
+https://www.youtube.com/watch?v=OyCvo0HoZZ8
+https://www.youtube.com/watch?v=QXXuCWBVPss
 https://x.com/brendanfal
 https://x.com/gurgrant
 https://x.com/intent/post?url=https%3A%2F%2Fhercules.app%2Fchangelog%2Fadd-sms-sign-in&text=Add+SMS+Sign-In
