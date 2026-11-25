@@ -497,6 +497,7 @@ https://hercules.app/mcp-setup
 https://hercules.app/platform/billing/ai-credits
 https://hercules.app/platform/billing/cloud-credits
 https://hercules.app/pricing
+https://hercules.app/resources
 https://hercules.app/signup
 https://hercules.app/skills
 https://hercules.app/skills/accessible-design
