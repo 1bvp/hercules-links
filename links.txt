@@ -355,6 +355,7 @@ https://hercules.app/dashboard/skills
 https://hercules.app/dashboard?settings=organization-billing%2Fai-usage
 https://hercules.app/dashboard?settings=organization-billing%2Fplans
 https://hercules.app/docs
+https://hercules.app/docs/agents/agents-in-apps
 https://hercules.app/docs/agents/analytics
 https://hercules.app/docs/agents/auto-improve
 https://hercules.app/docs/agents/channels
